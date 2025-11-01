@@ -11,6 +11,7 @@ body {
     color: #fff;
     padding: 3rem;
     border-radius: 0.5rem;
+    min-width: 600px;
     width: 100%;
 }
 .social-links i {
